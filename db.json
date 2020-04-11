@@ -1,5 +1,7 @@
 {
-    "districtName": "District 13",
-    "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
-    "status": "Under Control"
+    "record": {
+        "districtName": "District 13",
+        "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
+        "status": "Under Control"
+    }
 }
