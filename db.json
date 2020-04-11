@@ -1,7 +1,39 @@
 {
-    "record": {
-        "districtName": "District 13",
-        "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
-        "status": "Under Control"
-    }
+    "record": [
+        {
+            "id": 123,
+            "districtName": "District 13",
+            "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
+            "status": "Under Control",
+            "anotherStatus": "Done"
+        },
+        {
+            "id": 1234,
+            "districtName": "District 1",
+            "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
+            "status": "Storm!",
+            "anotherStatus": "Done"
+        },
+        {
+            "id": 1235,
+            "districtName": "District 2",
+            "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
+            "status": "Rain!",
+            "anotherStatus": "Done"
+        }
+        {
+            "id": 1236,
+            "districtName": "District 3",
+            "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
+            "status": "Fire!",
+            "anotherStatus": "Done"
+        },
+        {
+            "id": 1231,
+            "districtName": "District 4",
+            "uid": "asdf-asdf-asdf-sadf-sadf-asdf",
+            "status": "Under Siege",
+            "anotherStatus": "Not Done"
+        }
+    ]
 }
